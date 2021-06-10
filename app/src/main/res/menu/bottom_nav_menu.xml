@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_resaurant"
+        android:icon="@drawable/ic_baseline_restaurant_menu_24"
+        android:title="@string/title_restaurant" />
+
+    <item
+        android:id="@+id/navigation_school"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="@string/title_school" />
+
+    <item
+        android:id="@+id/navigation_hospital"
+        android:icon="@drawable/ic_baseline_local_hospital_24"
+        android:title="@string/title_hospital" />
+
+</menu>

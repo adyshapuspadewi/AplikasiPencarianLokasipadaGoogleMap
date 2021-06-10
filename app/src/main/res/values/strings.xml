@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_GIS_ANDROID_TI6MA_1811500029</string>
+    <string name="title_restaurant">Restaurant</string>
+    <string name="title_school">School</string>
+    <string name="title_hospital">Hospital</string>
+    <string name="b_search">SEARCH</string>
+    <string name="cari_lokasi">Cari Lokasi</string>
+</resources>
